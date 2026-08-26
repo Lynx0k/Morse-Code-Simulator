@@ -1,0 +1,10 @@
+{
+  "wpm": 20,
+  "frequency": 700,
+  "volume": 50,
+  "thresholdMs": 107,
+  "letterGapU": 1.7,
+  "wordGapU": 6.9,
+  "autoSpace": true,
+  "fontSize": 36
+}
