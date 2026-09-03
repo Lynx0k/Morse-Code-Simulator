@@ -1,1 +1,1 @@
-Let's try https://lynx0k.github.io/
+try here: https://lynx0k.github.io/
